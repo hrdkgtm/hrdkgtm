@@ -8,7 +8,7 @@
 
 #### Sr. DevOps Engineer at [Blibli.com](https://blibli.com/).
 
-I love to make my life easier by ~~not working~~ using automation and utilities. 
+I love to make my life easier by ~~avoiding work~~ using automation and utilities. 
 
 <details>
     <summary> Show GitHub Stats </summary>
