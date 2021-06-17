@@ -3,7 +3,7 @@
 <!-- profile badges -->
 <p align="left">
     <a href="https://www.linkedin.com/in/hardika-gutama/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white"></a>
-    <a href="" target="_blank"><img alt="n0sebleedz.com" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fn0sebleedz.com%2Fshields"></a>
+    <a href="https://n0sebleedz.com" target="_blank"><img alt="n0sebleedz.com" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fn0sebleedz.com%2Fshields"></a>
 </p>
 
 #### Sr. DevOps Engineer at [Blibli.com](https://blibli.com/).
