@@ -6,7 +6,7 @@
     <a href="https://n0sebleedz.com" target="_blank"><img alt="n0sebleedz.com" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fn0sebleedz.com%2Fshields"></a>
 </p>
 
-#### Sr. DevOps Engineer at [Blibli.com](https://blibli.com/).
+#### Sr. Site Reliability Engineer at [DANA Indonesia](https://www.dana.id//).
 
 I love to make my life easier by ~~avoiding work~~ using automation and utilities. 
 
